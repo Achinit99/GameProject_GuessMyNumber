@@ -10,7 +10,7 @@ document.querySelector('.score').textContent = 10;
 
 document.querySelector('.guess').value = 23;
 console.log(document.querySelector('.guess').value);
-*/
+
 
 // Handling Click Events
 
@@ -26,3 +26,6 @@ document.querySelector('.check').addEventListener('click', function () {
     document.querySelector('.message').textContent = '⛔ No number!';
   }
 });
+*/
+
+// Implementing the Game Logic
