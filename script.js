@@ -1,5 +1,5 @@
 'use strict';
-
+/*
 // Selecting and Manipulating Elements
 
 console.log(document.querySelector('.message').textContent);
@@ -10,3 +10,6 @@ document.querySelector('.score').textContent = 10;
 
 document.querySelector('.guess').value = 23;
 console.log(document.querySelector('.guess').value);
+*/
+
+// Handling Click Events
